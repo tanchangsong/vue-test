@@ -3,6 +3,7 @@
    {{addResult}}
 
    <p v-if="seen">你好，效力</p>
+   <span>修改项</span>
    <!--
    <div id="dooor-test">
      <ol>
